@@ -26,7 +26,7 @@
 
 ## Contatos:
 
-[![LikedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-sobral-coutinho-0260a5260/)
+[![LikedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael0106/)
 
 Email: raafaelsobrall@gmail.com
 
