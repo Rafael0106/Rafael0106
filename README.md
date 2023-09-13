@@ -5,7 +5,7 @@
 <br><p align="center"><b>-📚 Cursando ADS, na Universidade de Mogi das Cruzes - UMC</b></p>
 
 <div align="center">  
-  <img width="51%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rafael0106&theme=transparent&bg_color=0d1117&hide_border=true&show_icons=true&icon_color=00ADFFFF&title_color=00ADFFFF&text_color=c9d1d9" alt="Rafael Sobral Coutinho github stats" /> 
+  <img width="51%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafael0106&theme=transparent&bg_color=0d1117&hide_border=true&show_icons=true&icon_color=00ADFFFF&title_color=00ADFFFF&text_color=c9d1d9" alt="Rafael Sobral Coutinho github stats" /> 
   <img width="42%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rafael0106&layout=compact&bg_color=0d1117&hide_border=true&title_color=00ADFFFF&text_color=c9d1d9" />
 </div>
 
