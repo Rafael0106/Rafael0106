@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ADFFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Chivo&color=00ADFFFF&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo!+Sou+Rafael+Sobral+Coutinho;Tenho+22+anos,+sempre+procurando+evoluir!+%F0%9F%96%A5%EF%B8%8F%F0%9F%93%88)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Chivo&color=00ADFFFF&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo!+Sou+Rafael+Sobral+Coutinho;Tenho+23+anos,+sempre+procurando+evoluir!+%F0%9F%96%A5%EF%B8%8F%F0%9F%93%88)](https://git.io/typing-svg)
 
 <br><p align="center"><b>-📚 Cursando ADS, na Universidade de Mogi das Cruzes - UMC</b></p>
 
