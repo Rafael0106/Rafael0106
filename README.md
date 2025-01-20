@@ -49,7 +49,7 @@
   <a href="https://www.linkedin.com/in/rafael0106/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  /></a>
   <img width="12" />
-  <a href="raafaelsobrall@gmail.com">
+  <a href="mailto:raafaelsobrall@gmail.com">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  /> 
   </a>
 </div>
