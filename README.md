@@ -6,9 +6,13 @@
 
 ###
 
-<div align="center">  
-  <img width="51%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rafael0106&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafael0106&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div  align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&duration=2500&pause=10000&color=00ADFF&center=false&vCenter=false&width=435&lines=+💡+Sobre+mim%3A" alt="Typing SVG" /></a>
+  <p aling="left"> Sou apaixonado por tecnologia e estou construindo meu caminho com dedicação, curiosidade e vontade de aprender todos os dias.
+    
+  Desde que mergulhei no universo do desenvolvimento de software, descobri que mais do que escrever códigos, o que me motiva é transformar ideias em soluções reais. Tenho sede de conhecimento, não tenho medo de     desafios e estou sempre pronto para me adaptar, testar, errar e melhorar.
+  
+  Mesmo em início de carreira, já carrego comigo experiências que moldaram meu senso de responsabilidade, colaboração e liderança. Hoje, quero ir além: me consolidar como desenvolvedor e, quem sabe amanhã, ser     referência para quem também está começando.</p>
 </div>
 
 ###
