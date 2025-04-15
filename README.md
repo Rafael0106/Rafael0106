@@ -7,7 +7,7 @@
 ###
 
 <div  align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&duration=2500&pause=10000&color=00ADFF&center=false&vCenter=false&width=435&lines=+💡+Sobre+mim%3A" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&duration=2500&pause=10000&color=00ADFF&center=false&vCenter=false&width=435&lines=Sobre+mim%3A" alt="Typing SVG" /></a>
   <p aling="left"> Sou apaixonado por tecnologia e estou construindo meu caminho com dedicação, curiosidade e vontade de aprender todos os dias.
     
   Desde que mergulhei no universo do desenvolvimento de software, descobri que mais do que escrever códigos, o que me motiva é transformar ideias em soluções reais. Tenho sede de conhecimento, não tenho medo de     desafios e estou sempre pronto para me adaptar, testar, errar e melhorar.
